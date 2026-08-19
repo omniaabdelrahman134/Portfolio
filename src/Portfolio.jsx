@@ -268,14 +268,12 @@ export default function Portfolio() {
               </h1>
 
               <p className="text-lg text-stone-500 max-w-xl mb-9">
-                I'm Omnia Abdelrahman, a front-end developer working in Next.js
-                and React. Computer Science student at Benha National
-                University, currently building a social platform called{' '}
-                <strong className="text-emerald-950 font-semibold">
-                  Linked
-                </strong>{' '}
-                for Route Academy — alongside e-commerce and productivity apps
-                that go from Figma to production.
+                I'm Omnia Abdelrahman, a front-end developer specializing in
+                Next.js, React, HTML, CSS, and JavaScript . Experienced in
+                building responsive, interactive, and high-performance web
+                applications , integrating REST APIs , managing state with
+                modern tools , and ensuring accessibility and cross-browser
+                compatibility
               </p>
 
               <div className="flex flex-wrap items-center gap-4 mb-14">
