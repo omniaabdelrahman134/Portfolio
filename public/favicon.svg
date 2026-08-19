@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- background badge -->
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#132821"/>
+
+  <!-- broken ring forming an "O", rotated so the gap sits bottom-right -->
+  <circle
+    cx="32" cy="32" r="18"
+    fill="none"
+    stroke="#f6f3ec"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-dasharray="102.42 10.68"
+    transform="rotate(-63 32 32)"
+  />
+
+  <!-- amber accent dot sitting in the gap, echoing the site's status indicator -->
+  <circle cx="44.73" cy="44.73" r="5.4" fill="#d98f3f"/>
+</svg>
